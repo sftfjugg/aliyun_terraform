@@ -91,4 +91,5 @@ Terraform能够创建配置文件的模板，以可重复、可预测的方式�
 
     $ terraform destroy
 
+规模化环境Terraform状态管理技巧:
 https://mp.weixin.qq.com/s/A1s-5vtCO6lqdXqaoA3L3g
