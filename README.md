@@ -90,3 +90,5 @@ Terraform能够创建配置文件的模板，以可重复、可预测的方式�
 ### 销毁资源
 
     $ terraform destroy
+
+https://mp.weixin.qq.com/s/A1s-5vtCO6lqdXqaoA3L3g
